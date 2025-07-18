@@ -48,7 +48,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/dushf12/microservices-robot-shop
    cd microservices-robo-shop/microservices-app/K8s/helm
    ```
 
